@@ -4,7 +4,7 @@ BS4 Online pure JavaScript calculator with advanced features borrowed from JS Ma
 
 ### Calculator look & feel
 
-
+![Advanced JavaScript Calculator](https://github.com/FedirM/JSCalc/blob/master/jsCalcScreenShot.png)
 
 ## Dependencies
 
